@@ -15,7 +15,7 @@ What works:
 # OS:
 Use High sierra or Mojave.
 
-Tested with 10.14.5
+Tested with 10.14.6
 
 Working great.
 
